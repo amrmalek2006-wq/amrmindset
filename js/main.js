@@ -1,4 +1,4 @@
-AOS.init({
+shanAOS.init({
   duration: 800,
   easing: 'slide-up',
   once: true
